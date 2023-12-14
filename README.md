@@ -32,7 +32,7 @@
 
 ![YangjiwooGN's github stats](https://github-readme-stats.vercel.app/api?username=YangjiwooGN&theme=outrun&show_icons=true)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-3d-contrib/profile-night-rainbow.svg)
 
 
 </div>
