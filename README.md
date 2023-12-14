@@ -12,8 +12,11 @@
 <br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=Expo&logoColor=white">
 <br/>
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
 
 ####  :mag_right: Other Site
   <a href="https://jiwooprogramming.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-ff6633?style=for-the-badge&logo=Tistory&logoColor=ffffff"/></a>
