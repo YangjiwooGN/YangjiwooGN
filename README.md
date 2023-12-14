@@ -26,7 +26,7 @@
 <br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-<br/>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YangjiwooGN)](https://github.com/ryo-ma/github-profile-trophy)
 
