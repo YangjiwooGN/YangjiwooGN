@@ -2,7 +2,8 @@
     
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=cc99ff&height=150&section=header&text=YangJiwoo&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
-개인 사이트
+####  :wave: Welcome my github profile !
+
 <br/>
   <a href="https://jiwooprogramming.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-ff6633?style=flat&logo=Tistory&logoColor=ffffff"/></a>
   <a href="https://www.instagram.com/jiwoo_8_1" target="_blank"><img src="https://img.shields.io/badge/Instagram-ff00ff?style=flat&logo=Instagram&logoColor=ffffff"/></a>
