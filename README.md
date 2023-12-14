@@ -1,5 +1,5 @@
 <a href="https://jiwooprogramming.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-ff6633?style=flat&logo=appveyor&logoColor=ffffff"/></a>
-<a href="https://www.instagram.com/jiwoo_8_1" target="_blank"><img src="https://img.shields.io/badge/Instagram-e4405f?style=flat&logo=appveyor&logoColor=ffffff"/></a>
+<a href="https://www.instagram.com/jiwoo_8_1" target="_blank"><img src="https://img.shields.io/badge/Instagram-ff00ff?style=flat&logo=appveyor&logoColor=ffffff"/></a>
 
 <!--
 **YangjiwooGN/YangjiwooGN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
