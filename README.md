@@ -4,7 +4,11 @@
 
 ####  :wave: Welcome my github profile !
 
-####  :clipboard: Once I've Used 
+####  :mag_right: Other Site
+  <a href="https://jiwooprogramming.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-ff6633?style=for-the-badge&logo=Tistory&logoColor=ffffff"/></a>
+  <a href="https://www.instagram.com/jiwoo_8_1" target="_blank"><img src="https://img.shields.io/badge/Instagram-ff00ff?style=for-the-badge&logo=Instagram&logoColor=ffffff"/></a>
+
+####  :clipboard: Tech Stack
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -21,12 +25,9 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
 
-####  :mag_right: Other Site
-  <a href="https://jiwooprogramming.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-ff6633?style=for-the-badge&logo=Tistory&logoColor=ffffff"/></a>
-  <a href="https://www.instagram.com/jiwoo_8_1" target="_blank"><img src="https://img.shields.io/badge/Instagram-ff00ff?style=for-the-badge&logo=Instagram&logoColor=ffffff"/></a>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=YangjiwooGN)](https://github.com/ryo-ma/github-profile-trophy)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YangjiwooGN&theme=outrun&show_icons=true)
+  [![YangjiwooGN's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YangjiwooGN&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/본인ID)
 
   gihub.com/%YangjiwooGN%
 </div>
