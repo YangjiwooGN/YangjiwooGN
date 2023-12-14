@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 ####  :mag_right: Other Site
-  <a href="https://jiwooprogramming.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-ff6633?style=the-badge&logo=Tistory&logoColor=ffffff"/></a>
+  <a href="https://jiwooprogramming.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-ff6633?style=for-the-badge&logo=Tistory&logoColor=ffffff"/></a>
   <a href="https://www.instagram.com/jiwoo_8_1" target="_blank"><img src="https://img.shields.io/badge/Instagram-ff00ff?style=flat&logo=Instagram&logoColor=ffffff"/></a>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YangjiwooGN&theme=outrun&show_icons=true)
