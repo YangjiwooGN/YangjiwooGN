@@ -26,6 +26,8 @@
   <a href="https://www.instagram.com/jiwoo_8_1" target="_blank"><img src="https://img.shields.io/badge/Instagram-ff00ff?style=for-the-badge&logo=Instagram&logoColor=ffffff"/></a>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YangjiwooGN&theme=outrun&show_icons=true)
+
+  gihub.com/%YangjiwooGN%
 </div>
 <!--
 **YangjiwooGN/YangjiwooGN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
