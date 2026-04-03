@@ -4,8 +4,6 @@
 
 ### 👋 Welcome to my GitHub profile
 
-꾸준히 배우고, 직접 만들고, 운영까지 경험하며 성장하는 개발자 양지우입니다.
-
 ---
 
 ### 🔗 Other Links
@@ -29,7 +27,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-<br/><br/>
+<br/>
 
 #### Backend
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -37,7 +35,7 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
-<br/><br/>
+<br/>
 
 #### Frontend
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
@@ -45,7 +43,7 @@
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white">
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
 
-<br/><br/>
+<br/>
 
 #### DevOps / Infra
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -55,7 +53,7 @@
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
 
-<br/><br/>
+<br/>
 
 #### Monitoring / Data
 <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
@@ -64,7 +62,7 @@
 <img src="https://img.shields.io/badge/Fluent_Bit-49BDA5?style=for-the-badge&logo=fluentbit&logoColor=white">
 <img src="https://img.shields.io/badge/Fluentd-0E83C8?style=for-the-badge&logo=fluentd&logoColor=white">
 
-<br/><br/>
+<br/>
 
 #### Cloud
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
@@ -74,7 +72,7 @@
 <img src="https://img.shields.io/badge/Amazon_API_Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon_SNS-DD344C?style=for-the-badge&logo=amazonsns&logoColor=white">
 
-<br/><br/>
+<br/>
 
 #### Tools / Collaboration
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -97,12 +95,7 @@
   </a>
 </p>
 
-#### ☕ Java Problem Solving
-<a href="https://solved.ac/javajwoo3460">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=javajwoo3460" height="170"/>
-</a>
-
-<br/><br/>
+<br/>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
