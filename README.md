@@ -82,7 +82,7 @@
 ####  :page_with_curl: Record
 [![trophy](https://github-profile-trophy.vercel.app/?username=YangjiwooGN&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![YangjiwooGN's GitHub stats](https://github-readme-stats.vercel.app/api?username=YangjiwooGN&show_icons=true&theme=outrun)
+[![YangjiwooGN's GitHub stats](https://github-readme-stats.vercel.app/api?username=YangjiwooGN&show_icons=true&theme=outrun)](https://github.com/YangjiwooGN/github-readme-stats)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
