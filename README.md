@@ -74,11 +74,7 @@
 
 ####  :page_with_curl: Record
 
-**🐍 Python Problem Solving**  
 [![Solved.ac Profile - Python](http://mazassumnida.wtf/api/v2/generate_badge?boj=didwldn0516)](https://solved.ac/didwldn0516)
-
-**☕ Java Problem Solving**  
-[![Solved.ac Profile - Java](http://mazassumnida.wtf/api/v2/generate_badge?boj=javajwoo3460)](https://solved.ac/javajwoo3460)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
