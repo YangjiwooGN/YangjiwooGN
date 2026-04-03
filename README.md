@@ -73,9 +73,14 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
 ####  :page_with_curl: Record
+
+**🐍 Python Problem Solving**  
+[![Solved.ac Profile - Python](http://mazassumnida.wtf/api/v2/generate_badge?boj=didwldn0516)](https://solved.ac/didwldn0516)
+
+**☕ Java Problem Solving**  
+[![Solved.ac Profile - Java](http://mazassumnida.wtf/api/v2/generate_badge?boj=javajwoo3460)](https://solved.ac/javajwoo3460)
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=didwldn0516)](https://solved.ac/didwldn0516)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=javajwoo3460)](https://solved.ac/javajwoo3460)
 
 </div>
 <!--
