@@ -8,6 +8,7 @@
 ####  :mag_right: Other Site
   <a href="https://jiwooprogramming.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-ff6633?style=for-the-badge&logo=Tistory&logoColor=ffffff"/></a>
   <a href="https://www.instagram.com/jiwoo_8_1" target="_blank"><img src="https://img.shields.io/badge/Instagram-ff00ff?style=for-the-badge&logo=Instagram&logoColor=ffffff"/></a>
+  <a href="https://respected-guanaco-e64.notion.site/Jiwoo-Yang-19a3c2d933048059bcb7e1d9d22608f0" target="_blank"><img src="https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
 
 #### :clipboard: Tech Stack
