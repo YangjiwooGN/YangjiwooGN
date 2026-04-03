@@ -75,6 +75,7 @@
 ####  :page_with_curl: Record
 
 [![Solved.ac Profile - Python](http://mazassumnida.wtf/api/v2/generate_badge?boj=didwldn0516)](https://solved.ac/didwldn0516)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YangjiwooGN&theme=dark)](https://git.io/streak-stats)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
