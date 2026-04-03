@@ -74,8 +74,14 @@
 
 ####  :page_with_curl: Record
 
-[![Solved.ac Profile - Python](http://mazassumnida.wtf/api/v2/generate_badge?boj=didwldn0516)](https://solved.ac/didwldn0516)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YangjiwooGN&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://solved.ac/didwldn0516">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=didwldn0516" height="170"/>
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=YangjiwooGN&theme=dark" height="170"/>
+  </a>
+</p>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
