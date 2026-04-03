@@ -24,6 +24,7 @@
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 <br/>
 
@@ -32,14 +33,6 @@
 <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white">
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
-
-<br/>
-
-##### Database
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 
 <br/>
 
@@ -81,7 +74,8 @@
 
 ####  :page_with_curl: Record
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=didwldn0516)](https://solved.ac/didwldn0516)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=javajwoo3460)](https://solved.ac/javajwoo3460)
 
 </div>
 <!--
